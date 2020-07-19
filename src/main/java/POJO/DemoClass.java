@@ -6,6 +6,8 @@ public class DemoClass
 	{
 		System.out.println("hi");
 		
+		System.out.println("Goobe");
+
 	}
    
 }
